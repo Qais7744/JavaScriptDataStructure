@@ -1,2 +1,3 @@
 //Welcome Message
-console.log("Welcome Data Structure")
+var Message = "Welcome Data Structure";
+console.log(Message);
